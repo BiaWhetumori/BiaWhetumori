@@ -1,6 +1,6 @@
-Olá! Eu sou a Betriz Alve
+Olá! Eu sou a Beatriz Alves
 
- 🌱 Atualmente estou aprendend Java
+ 🌱 Aprendendo Java
  
 👩‍💻 Estudante de programação.
 
